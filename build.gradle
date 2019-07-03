@@ -15,6 +15,7 @@ subprojects {
         mavenCentral()
         maven {
             url 'https://hub.spigotmc.org/nexus/content/repositories/snapshots/'
+            url 'https://oss.sonatype.org/content/repositories/snapshots'
         }
     }
 

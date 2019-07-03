@@ -15,7 +15,6 @@ subprojects {
         mavenCentral()
         maven {
             url 'https://hub.spigotmc.org/nexus/content/repositories/snapshots/'
-            url 'https://nexus.ibj.io/repository/maven-public/'
         }
     }
 

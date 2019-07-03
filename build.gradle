@@ -14,8 +14,7 @@ subprojects {
     repositories {
         mavenCentral()
         maven {
-            url 'https://hub.spigotmc.org/nexus/content/repositories/snapshots/'
-            url 'https://oss.sonatype.org/content/repositories/snapshots'
+            url 'https://repo.vectormc.net/artifactory/mirrors'
         }
     }
 
